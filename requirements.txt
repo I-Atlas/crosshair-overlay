@@ -1,0 +1,8 @@
+altgraph==0.17.2
+dearpygui==1.6.2
+future==0.18.2
+pefile==2022.5.30
+pyinstaller==5.2
+pyinstaller-hooks-contrib==2022.8
+pywin32-ctypes==0.2.0
+darkdetect~=0.7.1
